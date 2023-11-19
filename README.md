@@ -1,2 +1,2 @@
 # Machine-Learning-with-Python-freecodecamp
-projects undertaken as part of the freecodecamp.org machine learning course.
+Projects undertaken as part of the freecodecamp.org machine learning course. These projects enabled me to build a basic understanding of the tools available (python packages, usage of functions, how tensors work, etc.) to undertake the building of basic machine learning models. Descriptions of the coding challenges and my worked solutions can be found within the notebooks themsevles. 
